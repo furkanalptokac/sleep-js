@@ -20,3 +20,4 @@ yarn add -D @furkanalptokac/sleep-js
 import sleep from '@furkanalptokac/sleep-js';
 
 sleep(1000); // 1000 ms
+```
